@@ -39,6 +39,8 @@ python app.py
 ```
 Open a web browser and navigate to http://127.0.0.1:8050/ to access the application.
 
+<img src="https://github.com/akshitagupta15june/WorldGDP-Analysis-using-ChatGPT/blob/main/Images/scc.png">
+
 ## Features
 
 Choropleth Map: Visualize world GDP data on an interactive choropleth map.
